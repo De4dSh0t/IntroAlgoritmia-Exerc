@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\bin\Debug\netcoreapp3.0\#Closer_n_closer.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\bin\Debug\netcoreapp3.0\#Closer_n_closer.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\bin\Debug\netcoreapp3.0\#Closer_n_closer.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\bin\Debug\netcoreapp3.0\#Closer_n_closer.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\bin\Debug\netcoreapp3.0\#Closer_n_closer.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\bin\Debug\netcoreapp3.0\#Closer_n_closer.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\obj\Debug\netcoreapp3.0\#Closer_n_closer.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\obj\Debug\netcoreapp3.0\#Closer_n_closer.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\obj\Debug\netcoreapp3.0\#Closer_n_closer.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\obj\Debug\netcoreapp3.0\#Closer_n_closer.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Closer_n_closer\obj\Debug\netcoreapp3.0\#Closer_n_closer.pdb
