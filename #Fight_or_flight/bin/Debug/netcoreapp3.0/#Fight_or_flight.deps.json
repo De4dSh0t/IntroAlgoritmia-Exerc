@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "#Fight_or_flight/1.0.0": {
+        "runtime": {
+          "#Fight_or_flight.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "#Fight_or_flight/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

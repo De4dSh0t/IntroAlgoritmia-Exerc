@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\bin\Debug\netcoreapp3.0\#Fight_or_flight.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\bin\Debug\netcoreapp3.0\#Fight_or_flight.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\bin\Debug\netcoreapp3.0\#Fight_or_flight.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\bin\Debug\netcoreapp3.0\#Fight_or_flight.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\bin\Debug\netcoreapp3.0\#Fight_or_flight.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\bin\Debug\netcoreapp3.0\#Fight_or_flight.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\obj\Debug\netcoreapp3.0\#Fight_or_flight.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\obj\Debug\netcoreapp3.0\#Fight_or_flight.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\obj\Debug\netcoreapp3.0\#Fight_or_flight.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\obj\Debug\netcoreapp3.0\#Fight_or_flight.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Fight_or_flight\obj\Debug\netcoreapp3.0\#Fight_or_flight.pdb
