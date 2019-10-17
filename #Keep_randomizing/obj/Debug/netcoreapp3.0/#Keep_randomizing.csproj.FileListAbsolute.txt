@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\bin\Debug\netcoreapp3.0\#Keep_randomizing.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\bin\Debug\netcoreapp3.0\#Keep_randomizing.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\bin\Debug\netcoreapp3.0\#Keep_randomizing.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\bin\Debug\netcoreapp3.0\#Keep_randomizing.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\bin\Debug\netcoreapp3.0\#Keep_randomizing.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\bin\Debug\netcoreapp3.0\#Keep_randomizing.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\obj\Debug\netcoreapp3.0\#Keep_randomizing.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\obj\Debug\netcoreapp3.0\#Keep_randomizing.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\obj\Debug\netcoreapp3.0\#Keep_randomizing.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\obj\Debug\netcoreapp3.0\#Keep_randomizing.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Keep_randomizing\obj\Debug\netcoreapp3.0\#Keep_randomizing.pdb

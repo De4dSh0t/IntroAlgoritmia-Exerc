@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "#Keep_randomizing/1.0.0": {
+        "runtime": {
+          "#Keep_randomizing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "#Keep_randomizing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
