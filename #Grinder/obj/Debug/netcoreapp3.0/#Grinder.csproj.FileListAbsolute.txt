@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\bin\Debug\netcoreapp3.0\#Grinder.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\bin\Debug\netcoreapp3.0\#Grinder.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\bin\Debug\netcoreapp3.0\#Grinder.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\bin\Debug\netcoreapp3.0\#Grinder.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\bin\Debug\netcoreapp3.0\#Grinder.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\bin\Debug\netcoreapp3.0\#Grinder.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\obj\Debug\netcoreapp3.0\#Grinder.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\obj\Debug\netcoreapp3.0\#Grinder.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\obj\Debug\netcoreapp3.0\#Grinder.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\obj\Debug\netcoreapp3.0\#Grinder.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\#Grinder\obj\Debug\netcoreapp3.0\#Grinder.pdb
