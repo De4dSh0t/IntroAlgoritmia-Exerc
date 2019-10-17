@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\#I_will_kick_your_ass\\#I_will_kick_your_ass.csproj",
+      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\Exercícios (Meu Git)\\#I_will_kick_your_ass\\#I_will_kick_your_ass.csproj",
       "projectName": "#I_will_kick_your_ass",
-      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\#I_will_kick_your_ass\\#I_will_kick_your_ass.csproj",
+      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\Exercícios (Meu Git)\\#I_will_kick_your_ass\\#I_will_kick_your_ass.csproj",
       "packagesPath": "C:\\Users\\ruips\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\#I_will_kick_your_ass\\obj\\",
+      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\Exercícios (Meu Git)\\#I_will_kick_your_ass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
