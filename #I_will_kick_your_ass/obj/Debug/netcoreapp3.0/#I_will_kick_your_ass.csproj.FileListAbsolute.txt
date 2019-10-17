@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\obj\Debug\netcoreapp3.0\#I_will_kick_your_ass.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\obj\Debug\netcoreapp3.0\#I_will_kick_your_ass.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\obj\Debug\netcoreapp3.0\#I_will_kick_your_ass.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\bin\Debug\netcoreapp3.0\#I_will_kick_your_ass.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\bin\Debug\netcoreapp3.0\#I_will_kick_your_ass.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\bin\Debug\netcoreapp3.0\#I_will_kick_your_ass.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\bin\Debug\netcoreapp3.0\#I_will_kick_your_ass.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\bin\Debug\netcoreapp3.0\#I_will_kick_your_ass.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\bin\Debug\netcoreapp3.0\#I_will_kick_your_ass.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\obj\Debug\netcoreapp3.0\#I_will_kick_your_ass.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#I_will_kick_your_ass\obj\Debug\netcoreapp3.0\#I_will_kick_your_ass.pdb
