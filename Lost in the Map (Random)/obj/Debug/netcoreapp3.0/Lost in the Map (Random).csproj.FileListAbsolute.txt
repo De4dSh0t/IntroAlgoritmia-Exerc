@@ -1,0 +1,14 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Lost in the Map (Random)\obj\Debug\netcoreapp3.0\Lost in the Map (Random).csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Lost in the Map (Random)\obj\Debug\netcoreapp3.0\Lost in the Map (Random).AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Lost in the Map (Random)\obj\Debug\netcoreapp3.0\Lost in the Map (Random).AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\obj\Debug\netcoreapp3.0\Lost in the Map (Random).csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\obj\Debug\netcoreapp3.0\Lost in the Map (Random).AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\obj\Debug\netcoreapp3.0\Lost in the Map (Random).AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\bin\Debug\netcoreapp3.0\Lost in the Map (Random).exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\bin\Debug\netcoreapp3.0\Lost in the Map (Random).deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\bin\Debug\netcoreapp3.0\Lost in the Map (Random).runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\bin\Debug\netcoreapp3.0\Lost in the Map (Random).runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\bin\Debug\netcoreapp3.0\Lost in the Map (Random).dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\bin\Debug\netcoreapp3.0\Lost in the Map (Random).pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\obj\Debug\netcoreapp3.0\Lost in the Map (Random).dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios\Lost in the Map (Random)\obj\Debug\netcoreapp3.0\Lost in the Map (Random).pdb
