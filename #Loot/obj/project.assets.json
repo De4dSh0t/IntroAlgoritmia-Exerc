@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\#Loot\\#Loot.csproj",
+      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\Exercícios (Meu Git)\\#Loot\\#Loot.csproj",
       "projectName": "#Loot",
-      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\#Loot\\#Loot.csproj",
+      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\Exercícios (Meu Git)\\#Loot\\#Loot.csproj",
       "packagesPath": "C:\\Users\\ruips\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\#Loot\\obj\\",
+      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\Exercícios (Meu Git)\\#Loot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

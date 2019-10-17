@@ -9,3 +9,14 @@ C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#Lo
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#Loot\obj\Debug\netcoreapp3.0\#Loot.AssemblyInfo.cs
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#Loot\obj\Debug\netcoreapp3.0\#Loot.dll
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\#Loot\obj\Debug\netcoreapp3.0\#Loot.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\bin\Debug\netcoreapp3.0\#Loot.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\bin\Debug\netcoreapp3.0\#Loot.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\bin\Debug\netcoreapp3.0\#Loot.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\bin\Debug\netcoreapp3.0\#Loot.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\bin\Debug\netcoreapp3.0\#Loot.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\bin\Debug\netcoreapp3.0\#Loot.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\obj\Debug\netcoreapp3.0\#Loot.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\obj\Debug\netcoreapp3.0\#Loot.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\obj\Debug\netcoreapp3.0\#Loot.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\obj\Debug\netcoreapp3.0\#Loot.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Loot\obj\Debug\netcoreapp3.0\#Loot.pdb
