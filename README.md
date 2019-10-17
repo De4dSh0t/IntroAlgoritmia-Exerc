@@ -1,3 +1,3 @@
-# Introdução Algoritmia 8-)
+# Introdução Algoritmia ^-^
 
 Exercícios resolvidos por mim - Algoritmia.
