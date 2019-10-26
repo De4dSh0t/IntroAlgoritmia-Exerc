@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\bin\Debug\netcoreapp3.0\#Lets_move.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\bin\Debug\netcoreapp3.0\#Lets_move.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\bin\Debug\netcoreapp3.0\#Lets_move.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\bin\Debug\netcoreapp3.0\#Lets_move.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\bin\Debug\netcoreapp3.0\#Lets_move.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\bin\Debug\netcoreapp3.0\#Lets_move.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\obj\Debug\netcoreapp3.0\#Lets_move.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\obj\Debug\netcoreapp3.0\#Lets_move.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\obj\Debug\netcoreapp3.0\#Lets_move.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\obj\Debug\netcoreapp3.0\#Lets_move.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Lets_move\obj\Debug\netcoreapp3.0\#Lets_move.pdb
