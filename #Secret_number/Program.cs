@@ -13,7 +13,11 @@ namespace _Secret_number
 
             while(flag)
             {
-                int guess = r.Next(101);
+                Console.WriteLine("");
+                Console.WriteLine("Please, write a number:");
+                
+                //Converter o "guess" de String para Int
+                int guess = Int32.Parse(Console.ReadLine());
                 
                 if(guess > secret)
                 {
