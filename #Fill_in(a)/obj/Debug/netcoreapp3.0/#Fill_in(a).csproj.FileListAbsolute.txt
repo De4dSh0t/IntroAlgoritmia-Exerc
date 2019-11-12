@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\obj\Debug\netcoreapp3.0\#Fill_in(a).csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\obj\Debug\netcoreapp3.0\#Fill_in(a).AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\obj\Debug\netcoreapp3.0\#Fill_in(a).AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\bin\Debug\netcoreapp3.0\#Fill_in(a).exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\bin\Debug\netcoreapp3.0\#Fill_in(a).deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\bin\Debug\netcoreapp3.0\#Fill_in(a).runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\bin\Debug\netcoreapp3.0\#Fill_in(a).runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\bin\Debug\netcoreapp3.0\#Fill_in(a).dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\bin\Debug\netcoreapp3.0\#Fill_in(a).pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\obj\Debug\netcoreapp3.0\#Fill_in(a).dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Fill_in(a)\obj\Debug\netcoreapp3.0\#Fill_in(a).pdb
