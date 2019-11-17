@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\bin\Debug\netcoreapp3.0\#Raid.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\bin\Debug\netcoreapp3.0\#Raid.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\bin\Debug\netcoreapp3.0\#Raid.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\bin\Debug\netcoreapp3.0\#Raid.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\bin\Debug\netcoreapp3.0\#Raid.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\bin\Debug\netcoreapp3.0\#Raid.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\obj\Debug\netcoreapp3.0\#Raid.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\obj\Debug\netcoreapp3.0\#Raid.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\obj\Debug\netcoreapp3.0\#Raid.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\obj\Debug\netcoreapp3.0\#Raid.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Raid\obj\Debug\netcoreapp3.0\#Raid.pdb
