@@ -1,0 +1,3 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Temperatures\obj\Debug\netcoreapp3.0\#Temperatures.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Temperatures\obj\Debug\netcoreapp3.0\#Temperatures.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\Exercícios (Meu Git)\#Temperatures\obj\Debug\netcoreapp3.0\#Temperatures.AssemblyInfo.cs
