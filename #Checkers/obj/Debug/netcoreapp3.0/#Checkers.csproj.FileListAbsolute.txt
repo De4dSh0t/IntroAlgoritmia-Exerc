@@ -1,0 +1,11 @@
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\bin\Debug\netcoreapp3.0\#Checkers.exe
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\bin\Debug\netcoreapp3.0\#Checkers.deps.json
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\bin\Debug\netcoreapp3.0\#Checkers.runtimeconfig.json
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\bin\Debug\netcoreapp3.0\#Checkers.runtimeconfig.dev.json
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\bin\Debug\netcoreapp3.0\#Checkers.dll
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\bin\Debug\netcoreapp3.0\#Checkers.pdb
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\obj\Debug\netcoreapp3.0\#Checkers.csprojAssemblyReference.cache
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\obj\Debug\netcoreapp3.0\#Checkers.AssemblyInfoInputs.cache
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\obj\Debug\netcoreapp3.0\#Checkers.AssemblyInfo.cs
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\obj\Debug\netcoreapp3.0\#Checkers.dll
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Checkers\obj\Debug\netcoreapp3.0\#Checkers.pdb
