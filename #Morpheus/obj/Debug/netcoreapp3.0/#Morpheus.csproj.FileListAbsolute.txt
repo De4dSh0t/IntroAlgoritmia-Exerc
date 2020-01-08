@@ -1,0 +1,11 @@
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\bin\Debug\netcoreapp3.0\#Morpheus.exe
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\bin\Debug\netcoreapp3.0\#Morpheus.deps.json
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\bin\Debug\netcoreapp3.0\#Morpheus.runtimeconfig.json
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\bin\Debug\netcoreapp3.0\#Morpheus.runtimeconfig.dev.json
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\bin\Debug\netcoreapp3.0\#Morpheus.dll
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\bin\Debug\netcoreapp3.0\#Morpheus.pdb
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\obj\Debug\netcoreapp3.0\#Morpheus.csprojAssemblyReference.cache
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\obj\Debug\netcoreapp3.0\#Morpheus.AssemblyInfoInputs.cache
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\obj\Debug\netcoreapp3.0\#Morpheus.AssemblyInfo.cs
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\obj\Debug\netcoreapp3.0\#Morpheus.dll
+C:\Users\ruips\Dropbox\Documentos\Universidade\1º Ano\1º Semestre\Introdução a Algoritmia\Exercícios (Meu Git)\#Morpheus\obj\Debug\netcoreapp3.0\#Morpheus.pdb

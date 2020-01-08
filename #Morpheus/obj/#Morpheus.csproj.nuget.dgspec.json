@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ruips\\Dropbox\\Documentos\\Universidade\\1º Ano\\1º Semestre\\Introdução a Algoritmia\\Exercícios (Meu Git)\\#Morpheus\\#Morpheus.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ruips\\Dropbox\\Documentos\\Universidade\\1º Ano\\1º Semestre\\Introdução a Algoritmia\\Exercícios (Meu Git)\\#Morpheus\\#Morpheus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ruips\\Dropbox\\Documentos\\Universidade\\1º Ano\\1º Semestre\\Introdução a Algoritmia\\Exercícios (Meu Git)\\#Morpheus\\#Morpheus.csproj",
+        "projectName": "#Morpheus",
+        "projectPath": "C:\\Users\\ruips\\Dropbox\\Documentos\\Universidade\\1º Ano\\1º Semestre\\Introdução a Algoritmia\\Exercícios (Meu Git)\\#Morpheus\\#Morpheus.csproj",
+        "packagesPath": "C:\\Users\\ruips\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruips\\Dropbox\\Documentos\\Universidade\\1º Ano\\1º Semestre\\Introdução a Algoritmia\\Exercícios (Meu Git)\\#Morpheus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ruips\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

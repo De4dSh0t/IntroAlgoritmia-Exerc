@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "#Morpheus/1.0.0": {
+        "runtime": {
+          "#Morpheus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "#Morpheus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
