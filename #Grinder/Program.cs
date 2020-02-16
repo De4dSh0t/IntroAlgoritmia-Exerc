@@ -26,7 +26,7 @@ namespace _Grinder
             }
             else
             {
-                Console.WriteLine("Sadly, it ain't your time for the 'Grinder' tier... You've killed " + killed + " ceatures so far!");
+                Console.WriteLine("Sadly, it ain't your time for the 'Grinder' tier... You've killed " + killed + " ceatures so far.");
             }
         }
     }
