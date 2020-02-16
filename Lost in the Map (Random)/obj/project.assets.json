@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\Exercícios\\Lost in the Map (Random)\\Lost in the Map (Random).csproj",
+      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\1. Intro Algoritmia\\Exercícios (Meu Git)\\Lost in the Map (Random)\\Lost in the Map (Random).csproj",
       "projectName": "Lost in the Map (Random)",
-      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\Exercícios\\Lost in the Map (Random)\\Lost in the Map (Random).csproj",
+      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\1. Intro Algoritmia\\Exercícios (Meu Git)\\Lost in the Map (Random)\\Lost in the Map (Random).csproj",
       "packagesPath": "C:\\Users\\ruips\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\Exercícios\\Lost in the Map (Random)\\obj\\",
+      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\1. Intro Algoritmia\\Exercícios (Meu Git)\\Lost in the Map (Random)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,12 +55,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.2, 3.0.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
