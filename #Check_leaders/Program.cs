@@ -9,7 +9,7 @@ namespace _Check_leaders
             Random r = new Random();
 
             int[] person = new int[20];
-            int leader;
+            int[] leader = new int[1];
             bool l;
 
             for(int i = 0; i < person.Length; i++)
@@ -34,14 +34,14 @@ namespace _Check_leaders
 
                     if(l == true)
                     {
-                        leader ++;
+                        leader[0] ++;
                     }
                 }
 
                 a++;
             }
 
-            Console.WriteLine(leader);
+            Console.WriteLine(leader[0]);
         }
     }
 }
